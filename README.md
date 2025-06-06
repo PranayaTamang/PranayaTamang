@@ -14,12 +14,12 @@
 [![My Skills](https://skillicons.dev/icons?i=react,next,html,css,js,pr,ps,flutter,qualityassurance)](https://skillicons.dev)
 
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranaya998&theme=gruvbox" alt="Pranaya998" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranaya998&theme=gruvbox" alt="PranayaTamang" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/PranayaTamang">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pranaya998&theme=bear" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PranayaTamang&theme=bear" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PranayaTamang&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PranayaTamang&theme=synthwave" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PranayaTamang&theme=noctis_minimus" height="180em" />
