@@ -20,9 +20,9 @@
 <div align="center">
 <a href="https://github.com/PranayaTamang">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pranaya998&theme=bear" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pranaya998&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pranaya998&theme=synthwave" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranaya998&theme=noctis_minimus" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PranayaTamang&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PranayaTamang&theme=synthwave" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PranayaTamang&theme=noctis_minimus" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Pranaya998&theme=vue"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=PranayaTamang&theme=vue"/>
